@@ -163,7 +163,7 @@ const Home: NextPage = () => {
             !originalPhoto && (
               <div className="h-[250px] flex flex-col items-center space-y-6 max-w-[670px] -mt-8">
                 <div className="max-w-xl text-gray-600">
-                  Sign in below with Google to create a free account and restore
+                  Sign in below with Github to create a free account and restore
                   your photos today. You will be able to restore 5 photos per
                   day for free.
                 </div>
